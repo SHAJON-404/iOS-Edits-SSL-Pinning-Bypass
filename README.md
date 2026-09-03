@@ -30,9 +30,9 @@
 6. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
 7. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
 8. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
-9. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
+9. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suite-SSL-Pinning-Bypass)
 10. [Ads Manager iOS](https://github.com/shajon-dev/iOS-Ads-Manager-SSL-Pinning-Bypass)
-11. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
+11. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suite-SSL-Pinning-Bypass)
 12. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
 13. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
 
