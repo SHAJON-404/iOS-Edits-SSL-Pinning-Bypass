@@ -10,14 +10,14 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **445.0.0.25.44**
+- App version: **449.0.0.24.70**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ---
 
 ## 🎥 Evidence
-![Edits iOS](assets/v445.jpg)
+![Edits iOS](assets/v449.jpg)
 
 ---
 
@@ -55,7 +55,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.burbn.basel</code></td>
-      <td align="center">445.0.0.25.44</td>
+      <td align="center">449.0.0.24.70</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
